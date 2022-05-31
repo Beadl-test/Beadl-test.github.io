@@ -6,6 +6,7 @@ has_children: false
 ---
 # BEhAvioral Description Language
 {: .no_toc}
+
 A Universal Framework to Describe Behavioral Tasks
 {: .fs-9 }
 
