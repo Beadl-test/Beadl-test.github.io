@@ -10,6 +10,6 @@ title: "BEADL"
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/BEADL_logo_inv.png"
 
-description: BEhAvioral Description Language
+#description: BEhAvioral Description Language
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://beadl.org" # the base hostname & protocol for your site, e.g. http://example.com
