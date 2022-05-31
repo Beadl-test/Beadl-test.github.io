@@ -6,3 +6,13 @@ color_scheme: dark
 title: "BEADL"
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/BEADL_logo_inv.png"
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Code on GitHub":
+    - "//github.com/BEADL"
+  "Kepecs Lab":
+    - "https://sites.wustl.edu/kepecslab/"
