@@ -9,7 +9,7 @@ has_children: false
 A Universal Framework to Describe Behavioral Tasks
 {: .fs-9 }
 
-CellExplorer is a graphical user interface (GUI), a standardized processing module and data structure for exploring and classifying single cells acquired using extracellular electrodes.
+Beadl Framework
 {: .fs-6 .fw-300}
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [View code on GitHub](https://github.com/petersenpeter/CellExplorer){: .btn .fs-5 .mb-4 .mb-md-0}
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [View code on GitHub](https://github.com/BEADL/){: .btn .fs-5 .mb-4 .mb-md-0}
