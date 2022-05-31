@@ -11,5 +11,5 @@ title: "BEADL"
 logo: "/assets/images/BEADL_logo_inv.png"
 
 description: BEhAvioral Description Language
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://beadl.org" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "https://beadl.org" # the base hostname & protocol for your site, e.g. http://example.com
