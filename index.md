@@ -6,7 +6,7 @@ has_children: false
 ---
 # BEhAvioral Description Language
 {: .no_toc}
-Blablabla
+A Universal Framework to Describe Behavioral Tasks
 {: .fs-9 }
 
 CellExplorer is a graphical user interface (GUI), a standardized processing module and data structure for exploring and classifying single cells acquired using extracellular electrodes.
