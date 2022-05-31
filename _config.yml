@@ -1,11 +1,8 @@
 # Use the Just the Docs theme (dark)
 remote_theme: just-the-docs/just-the-docs
 # Color scheme supports "light" (default) and "dark"
-# color_scheme: light
+color_scheme: sark
 # Set page title
 title: "BEADL"
 # Set a path/url to a logo that will be displayed instead of the title
 logo: "/assets/images/BEADL_logo_inv.png"
-# description: BEhAvioral Description Language
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://beadl.org" # the base hostname & protocol for your site, e.g. http://example.com
