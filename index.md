@@ -4,8 +4,9 @@ title: Home
 nav_order: 1
 has_children: false
 ---
-# Framework for analyzing single cells
-{: .no_toc}
+# BEhAvioral Description Language
+<!--{: .no_toc} -->
+Blablabla
 {: .fs-9 }
 
 CellExplorer is a graphical user interface (GUI), a standardized processing module and data structure for exploring and classifying single cells acquired using extracellular electrodes.
