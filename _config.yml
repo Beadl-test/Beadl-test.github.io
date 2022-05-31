@@ -16,3 +16,6 @@ aux_links:
     - "//github.com/BEADL"
   "Kepecs Lab":
     - "https://sites.wustl.edu/kepecslab/"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: false
