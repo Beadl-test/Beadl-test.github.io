@@ -7,7 +7,7 @@ has_children: false
 # BEhAvioral Description Language
 {: .no_toc}
 
-A Universal Framework to Describe Behavioral Tasks
+BEADL defines a universal framework to describe Behavioral Tasks.
 {: .fs-9 }
 
 Beadl Framework
