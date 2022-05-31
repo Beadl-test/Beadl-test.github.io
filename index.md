@@ -5,7 +5,7 @@ nav_order: 1
 has_children: false
 ---
 # BEhAvioral Description Language
-<!--{: .no_toc} -->
+{: .no_toc}
 Blablabla
 {: .fs-9 }
 
