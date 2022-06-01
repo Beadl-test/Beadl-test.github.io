@@ -13,12 +13,12 @@ BEhavioral tAsk Description Language
 A Universal Framework for Descirbing Behavioral Tasks
 {: .fs-6 .fw-500 .lh-0 }
 
-{: .no_toc}
 
 - TOC
 {:toc}
 
 # Motivation
+<!-- {: .no_toc} -->
 Technological advances in neuroscience have dramatically increased the possibilities for monitoring, quantifying, and  manipulating brain activity during behavior. In contrast, efforts to describe behavior have lagged behind. One reason for this is that there is no general formal framework to design or describe behavioral tasks, which are typically performed using specialized and often ad hoc hardware and software systems. The lack of universal behavioral task descriptions makes it challenging to communicate, share, publish, and reuse behavioral tasks.
 
 # Approach
