@@ -8,7 +8,7 @@ BEADLy
 {: .fs-9 .fw-500 .lh-0 }
 
 BEhavioral tAsk Description Language
-{: .fs-9 .fw-500 .lh-0 }
+{: .fs-9 .fw-500 .lh-tight }
 
 A Universal Framework for Descirbing Behavioral Tasks
 {: .fs-6 .fw-500 .lh-0 }
