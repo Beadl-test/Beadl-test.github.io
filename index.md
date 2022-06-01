@@ -4,11 +4,15 @@ title: Home
 nav_order: 1
 has_children: false
 ---
-# BEADL - BEhavioral tAsk Description Language
-{: .no_toc}
-{: .fs-9 }
+BEADL
+{: .fs-9 .fw-500 }
+BEhavioral tAsk Description Language
+{: .fs-9 .fw-500 }
+
 A Universal Framework for Descirbing Behavioral Tasks
-{: .fs-6 .fw-300}
+{: .fs-6 .fw-500 }
+
+{: .no_toc}
 
 - TOC
 {:toc}
