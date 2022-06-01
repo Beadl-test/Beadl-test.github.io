@@ -15,7 +15,7 @@ A Universal Framework for Descirbing Behavioral Tasks
 
 
 
-[BEADL Editor](https://staging.d237p8s4oa0mfk.amplifyapp.com){: .btn .btn-blue }
+[BEADL Editor](https://staging.d237p8s4oa0mfk.amplifyapp.com){: .btn .btn-blue .mr-8 }
 [Code on Github](https://github.com/BEADL){: .btn .btn-blue }
 
 - TOC
