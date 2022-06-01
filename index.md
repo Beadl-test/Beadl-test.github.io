@@ -10,14 +10,14 @@ BEADL
 BEhavioral tAsk Description Language
 {: .fs-9 .fw-500 .lh-tight }
 
-A Universal Framework for Descirbing Behavioral Tasks
+A Universal Framework for Describing Behavioral Tasks
 {: .fs-6 .fw-500 .lh-default }
 
 <hr>
 
 [BEADL Editor](https://staging.d237p8s4oa0mfk.amplifyapp.com){: .btn .btn-primary .mr-4 }
 [Code on GitHub](https://github.com/BEADL){: .btn .btn-blue .mr-4 }
-[Code on GitHub 2](https://github.com/BEADL){: .btn .btn-orange .mr-4 }
+<!--[Code on GitHub 2](https://github.com/BEADL){: .btn .btn-orange .mr-4 }-->
 
 - TOC
 {:toc}
