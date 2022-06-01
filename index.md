@@ -6,6 +6,9 @@ has_children: false
 ---
 # BEADL - BEhavioral tAsk Description Language
 {: .no_toc}
+{: .fs-9 }
+A Universal Framework for Descirbing Behavioral Tasks
+{: .fs-6 .fw-300}
 
 - TOC
 {:toc}
