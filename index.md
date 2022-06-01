@@ -13,7 +13,10 @@ BEhavioral tAsk Description Language
 A Universal Framework for Descirbing Behavioral Tasks
 {: .fs-6 .fw-500 .lh-0 }
 
-[Go To Editor](https://staging.d237p8s4oa0mfk.amplifyapp.com){: .btn .btn-blue }
+
+
+[BEADL Editor](https://staging.d237p8s4oa0mfk.amplifyapp.com){: .btn .btn-blue }
+[Code on Github](https://github.com/BEADL){: .btn .btn-blue }
 
 - TOC
 {:toc}
