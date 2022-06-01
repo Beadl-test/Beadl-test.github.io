@@ -5,12 +5,12 @@ nav_order: 1
 has_children: false
 ---
 BEADL
-{: .fs-9 .fw-500 }
+{: .fs-9 .fw-500 .lh-tight}
 BEhavioral tAsk Description Language
-{: .fs-9 .fw-500 .lh-tight }
+{: .fs-9 .fw-500 .lh-tight}
 
 A Universal Framework for Descirbing Behavioral Tasks
-{: .fs-6 .fw-500 }
+{: .fs-6 .fw-500 .lh-tight}
 
 {: .no_toc}
 
