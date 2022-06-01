@@ -4,13 +4,14 @@ title: Home
 nav_order: 1
 has_children: false
 ---
-BEADLx
-{: .fs-9 .fw-500 .lh-tight}
+BEADLy
+{: .fs-9 .fw-500 .lh-0 }
+
 BEhavioral tAsk Description Language
-{: .fs-9 .fw-500 .lh-tight}
+{: .fs-9 .fw-500 .lh-0 }
 
 A Universal Framework for Descirbing Behavioral Tasks
-{: .fs-6 .fw-500 .lh-tight}
+{: .fs-6 .fw-500 .lh-0 }
 
 {: .no_toc}
 
