@@ -32,6 +32,3 @@ We propose BEADL (BEhavioral tAsk Description Language) to abstract and standard
 
 # Workflow
 ![](assets/images/BEADL_Workflow.svg)
-
-
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2} [View code on GitHub](https://github.com/BEADL/){: .btn .fs-5 .mb-4 .mb-md-0} -->
