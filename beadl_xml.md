@@ -10,7 +10,7 @@ In its current version, BEADL defines a rigid, yet extensible framework by using
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<Beadl version="0.1">
+<BEADL version="0.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BEADL.xsd">
 <BeadlTrialProtocol name="DummyTask" startState="InitTrial" numberOfTrials="Inf">
 ...
 </BeadlTrialProtocol>
