@@ -12,3 +12,5 @@ In its current version, the BEADL-XML format defines 3 attibutes for the `<Beadl
 - `<verson>`
 - `<xmlns:xsi>`
 - `<xsi:noNamespaceSchemaLocation>`
+
+# Child elements
