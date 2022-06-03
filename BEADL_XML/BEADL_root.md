@@ -1,6 +1,7 @@
 ---
 layout: default
 title: BEADL root element
+parent:  BEADL XML
 nav_order: 1
 has_children: true
 ---
