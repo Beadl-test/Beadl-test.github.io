@@ -1,0 +1,7 @@
+---
+layout: default
+title: BEADL root element
+nav_order: 1
+has_children: true
+---
+The root element `<Beadl>` in the XML format works as a container for the behavioral task protocol definition but also to non-protocol specific properties such as properties for a graphical representation of the protocol in an additional editor.
