@@ -32,4 +32,3 @@ We propose BEADL (BEhavioral tAsk Description Language) to abstract and standard
 
 # Workflow
 ![](assets/images/BEADL_Workflow.jpg)
-This is the workflow
