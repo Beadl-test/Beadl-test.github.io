@@ -13,7 +13,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "BEADL Editor":
-    - "https://staging.d237p8s4oa0mfk.amplifyapp.com"
+    - "https://beta.beadl.org"
   "Code on GitHub":
     - "https://github.com/BEADL"
   "Kepecs Lab":
