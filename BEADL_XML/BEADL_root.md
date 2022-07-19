@@ -13,6 +13,8 @@ In its current version, the BEADL-XML format defines 3 attibutes for the `<BEADL
 - `xmlns:xsi`{: .text-blue-100 } 
 - `xsi:noNamespaceSchemaLocation`{: .text-blue-100 } 
 
-## Version
+## Attribute `version`
+## Attribute `xmlns:xsi`
+## Attribute `xsi:noNamespaceSchemaLocation`
 
 # Child elements
