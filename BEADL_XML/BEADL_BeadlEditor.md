@@ -3,21 +3,7 @@ layout: default
 title: BeadlEditor element
 parent: BEADL XML
 nav_order: 4
-has_children: true
+has_children: false
 ---
 
-Protocol
-
-The root element `<BEADL>`{: .text-blue-200 } in the XML format works as a container for the behavioral task protocol definition but also to non-protocol specific properties such as properties for a graphical representation of the protocol in an additional editor.
-
-# Attributes
-In its current version, the BEADL-XML format defines 3 attibutes for the `<BEADL>`{: .text-blue-100 } root element.
-- `version`{: .text-blue-100 }: defines the BEADL version being used in this proto
-- `xmlns:xsi`{: .text-blue-100 } 
-- `xsi:noNamespaceSchemaLocation`{: .text-blue-100 } 
-
-## Attribute `version`
-## Attribute xmlns:xsi
-## Attribute xsi:noNamespaceSchemaLocation
-
-# Child elements
+In future releases of BEADL-XML, the `<BeadlEditor>`{: style="color: #268bd2;" } element will hold the graphical represenation of a BEADL-based protocol to be used in the BEADL Editor. As of now (version 0.1.0), the BeadlEditor element can either be omitted in a BEADL-XML file or must not have any attributes nor child elements. Multiple instances of the `<BeadlEditor>`{: style="color: #268bd2;" } element are not allowed. Any violation of these restriction will cause the validation against the XSD schema to fail!
