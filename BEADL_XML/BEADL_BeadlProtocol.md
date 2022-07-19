@@ -2,7 +2,7 @@
 layout: default
 title: BEADL-XML protocol element
 parent: BEADL-XML root element
-nav_order: 1
+nav_order: 2
 has_children: true
 ---
 Protocol
