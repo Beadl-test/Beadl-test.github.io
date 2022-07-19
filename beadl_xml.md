@@ -23,4 +23,5 @@ The following code snippet shows the basic structure of a BEADL-XML file.
 <BeadlEditor>
 ...
 </BeadlEditor>
+</BEADL>
 ```
