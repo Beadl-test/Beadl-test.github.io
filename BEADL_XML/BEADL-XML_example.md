@@ -1,8 +1,8 @@
 ---
 layout: default
-title: BEADL-XML root element
+title: BEADL-XML example
 parent:  BEADL XML
-nav_order: 2
+nav_order: 1
 has_children: true
 ---
 The root element `<BEADL>`{: style="color: #268bd2;" } in the XML format works as a container for the behavioral task protocol definition but also to non-protocol specific properties such as properties for a graphical representation of the protocol in an additional editor.
