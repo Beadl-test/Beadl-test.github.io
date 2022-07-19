@@ -11,7 +11,7 @@ In its current version, BEADL defines a rigid, yet extensible framework by using
 # BEADL XML Element Overview
 {: .no_toc}
 Since BEADL is implemented using XML, there should only be a single root element `<BEADL>` in the structure of a well-formed BEADL file. Under this root element two different child elements are currently designated, describing the trial-based protocol implementation `<BeadlTrialProtocol>` and properties for the graphical editor `<BeadlEditor>`.
-Under the `<BeadlTrialProtocol>`{: style="color: red; opacity: 0.80;" } node, all properties of the actual protocol implementation as well as hardware-specific attributes are gathered together. A separation of hardware-specific attributes should facilitate a change of the used hardware platform, so a change does not interfere with the actual protocol implementation and interpretation.
+Under the `<BeadlTrialProtocol>`{: style="color: 3268bd2;" } node, all properties of the actual protocol implementation as well as hardware-specific attributes are gathered together. A separation of hardware-specific attributes should facilitate a change of the used hardware platform, so a change does not interfere with the actual protocol implementation and interpretation.
 
 The following code snippet shows the basic structure of a BEADL-XML file.
 ```xml
