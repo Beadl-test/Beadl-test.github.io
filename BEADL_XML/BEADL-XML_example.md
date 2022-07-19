@@ -5,7 +5,7 @@ parent:  BEADL XML
 nav_order: 1
 has_children: false
 ---
-# BEADL-XML Editor
+# BEADL-XML Example
 The following code snippet shows the implementation of the LightChasingTask as BEADL-XML description.
 
 ```xml
@@ -112,3 +112,4 @@ The following code snippet shows the implementation of the LightChasingTask as B
 ```
 
 The corresponding graphical representation of the LightChasingTask can be seen in the following image.
+![](assets/images/BEADL_LightChasingTask_Diagram.PNG)
