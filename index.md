@@ -16,7 +16,7 @@ A Universal Framework for Describing Behavioral Tasks
 <hr>
 
 [BEADL Editor](https://beta.beadl.org){: .btn .btn-primary .mr-4 }
-[Code on GitHub](https://github.com/BEADL){: .btn .btn-primary .mr-4 }
+<!--[Code on GitHub](https://github.com/BEADL){: .btn .btn-primary .mr-4 }-->
 <!--[Code on GitHub 2](https://github.com/BEADL){: .btn .btn-orange .mr-4 }-->
 
 - TOC

@@ -14,8 +14,8 @@ heading_anchors: true
 aux_links:
   "BEADL Editor":
     - "https://beta.beadl.org"
-  "Code on GitHub":
-    - "https://github.com/BEADL"
+  #"Code on GitHub":
+  #  - "https://github.com/BEADL"
   "Kepecs Lab":
     - "https://sites.wustl.edu/kepecslab/"
 
