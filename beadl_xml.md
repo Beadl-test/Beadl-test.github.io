@@ -35,3 +35,6 @@ Looking at the code snippet above, an XML description consists basically of four
 
 - Attribute values: 
 - XML Prolog: The first line within an XML document is some kind of a special XML element and describes the XML-version and character encoding of the XML file itself using the attributes `version` and `encoding`. All valid XML files must start with a prolog, whereas the attribute values might be different.
+
+# XML Schema Definition
+The formal structure of an XML description can be validated using a so-called XML Schema Definition (XSD). This is a description of the XML structure, using an XML-based description itself. The latest version of XSD-based schema definition for BEADL-XML can be accessed [here](https://github.com/BEADL/XSD/blob/main/BEADL.xsd).
