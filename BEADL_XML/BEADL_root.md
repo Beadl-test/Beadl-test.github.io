@@ -6,6 +6,9 @@ nav_order: 1
 has_children: true
 ---
 The root element `<BEADL>`{: inline-code-color } in the XML format works as a container for the behavioral task protocol definition but also to non-protocol specific properties such as properties for a graphical representation of the protocol in an additional editor.
+
+x
+
 ```xml
 <BEADL version="0.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BEADL.xsd">
 <BeadlTrialProtocol name="DummyTask" startState="InitTrial" numberOfTrials="INF">
