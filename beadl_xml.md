@@ -10,12 +10,14 @@ In its current version, BEADL defines a rigid, yet extensible framework by using
 <hr>
 # BEADL XML Element Overview
 {: .no_toc}
-Since BEADL is implemented using XML, there should only be a single root element `<BEADL>`{: .text-blue-200 } in the structure of a well-formed BEADL file. Under this root element two different child elements are currently designated, describing the trial-based protocol implementation `<BeadlTrialProtocol>`{: .text-blue-200 } and properties for the graphical editor `<BeadlEditor>`{: .text-blue-200 } (not implemented yet). Under the `<BeadlTrialProtocol>`{: .text-blue-200 } node, all properties of the actual protocol implementation as well as hardware-specific attributes are gathered together. A separation of hardware-specific attributes should facilitate a change of the used hardware platform, so a change does not interfere with the actual protocol implementation and interpretation.
+Since BEADL is implemented using XML, there should only be a single root element `<BEADL>`{: .text-blue-200 } in the structure of a well-formed BEADL file. Under this root element two different child elements are currently designated, describing the trial-based protocol implementation `<BeadlTrialProtocol>`{: .text-blue-200 } and properties for the graphical editor `<BeadlEditor>`{: .text-blue-200 } (not implemented yet).
+Under the `<BeadlTrialProtocol>`{: .text-blue-200 } node, all properties of the actual protocol implementation as well as hardware-specific attributes are gathered together. A separation of hardware-specific attributes should facilitate a change of the used hardware platform, so a change does not interfere with the actual protocol implementation and interpretation.
 
+The following core snippet shows the basic structure of a BEADL-XML file.
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <BEADL version="0.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BEADL.xsd">
-<BeadlTrialProtocol name="DummyTask" startState="InitTrial" numberOfTrials="Inf">
+<BeadlTrialProtocol name="DummyTask" startState="InitTrial" numberOfTrials="INF">
 ...
 </BeadlTrialProtocol>
 <BeadlEditor>
