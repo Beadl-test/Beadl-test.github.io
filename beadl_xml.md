@@ -7,9 +7,7 @@ has_children: true
 # BEADL XML
 {: .no_toc}
 In its current version, BEADL defines a rigid, yet extensible framework by using XML (eXtensible Markup Language) to describe behavioral tasks. This way, the main concept of the task logic can be precisely defined as well as the requirements of the different bevaioral control environments can be met. In addition to that, using an XML Schema Definition (XSD) ensures the formal verification of the content of a XML-based BEADL definition.
-
 <hr>
-
 # BEADL XML Element Overview
 {: .no_toc}
 Since BEADL is implemented using XML, there should only be a single root element `<BEADL>`{: .text-blue-200 } in the structure of a well-formed BEADL file. Under this root element two different child elements are currently designated, describing the trial-based protocol implementation `<BeadlTrialProtocol>`{: .text-blue-200 } and properties for the graphical editor `<BeadlEditor>`{: .text-blue-200 } (not implemented yet). Under the `<BeadlTrialProtocol>`{: .text-blue-200 } node, all properties of the actual protocol implementation as well as hardware-specific attributes are gathered together. A separation of hardware-specific attributes should facilitate a change of the used hardware platform, so a change does not interfere with the actual protocol implementation and interpretation.
