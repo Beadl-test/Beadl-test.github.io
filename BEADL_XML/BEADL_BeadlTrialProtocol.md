@@ -10,7 +10,8 @@ has_children: false
 Details. 
 
 ## Child Elements
-{: .no_toc .text-delta }
+{: .no_toc }
+<!--{: .no_toc .text-delta }-->
 
 1. TOC
 {:toc}
