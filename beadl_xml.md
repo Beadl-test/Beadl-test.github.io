@@ -30,11 +30,11 @@ The following code snippet shows the basic structure of a BEADL-XML file.
 # XML Naming Conventions
 Looking at the code snippet above, an XML description consists basically of four different entities:
 
-- XML elements: XML elements are the main building blocks to describe a data structure in XML. They are delimited by angled brackets (`< >`{: style="color: #268bd2;" }) as tags and must be properly terminated. An element starts with the start-tag (`<elementName>`{: style="color: #268bd2;" }) and can have nested elements (child elements). If an element has at least one child element, the termination of the element must be done with an end-tag (`</elementName>`{: style="color: #268bd2;" }). If an element does not have any child elements, it can be terminated within the start-tag itself (`<elementName />`{: style="color: #268bd2;" })
-- XML attributes: 
+- **XML elements**: XML elements are the main building blocks to describe a data structure in XML. They are delimited by angled brackets (`< >`{: style="color: #268bd2;" }) as tags and must be properly terminated. An element starts with the start-tag (`<elementName>`{: style="color: #268bd2;" }) and can have nested elements (child elements). If an element has at least one child element, the termination of the element must be done with an end-tag (`</elementName>`{: style="color: #268bd2;" }). If an element does not have any child elements, it can be terminated within the start-tag itself (`<elementName />`{: style="color: #268bd2;" })
+- **XML attributes**: 
 
-- Attribute values: 
-- XML Prolog: The first line within an XML document is some kind of a special XML element and describes the XML-version and character encoding of the XML file itself using the attributes `version`{: style="color: #555555;" } and `encoding`{: style="color: #555555;" }. All valid XML files must start with a prolog, whereas the attribute values might be different.
+- **Attribute values**: 
+- **XML Prolog**: The first line within an XML document is some kind of a special XML element and describes the XML-version and character encoding of the XML file itself using the attributes `version`{: style="color: #555555;" } and `encoding`{: style="color: #555555;" }. All valid XML files must start with a prolog, whereas the attribute values might be different.
 
 # XML Schema Definition
 The formal structure of an XML description can be validated using a so-called XML Schema Definition (XSD). This is a description of the XML structure, using an XML-based description itself. The latest version of XSD-based schema definition for BEADL-XML can be accessed [here](https://github.com/BEADL/XSD/blob/main/BEADL.xsd).

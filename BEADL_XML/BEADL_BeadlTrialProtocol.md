@@ -6,7 +6,7 @@ grand_parent: BEADL XML
 nav_order: 3
 has_children: false
 ---
-# CellExplorer Menu Bar
+# BeadlTrialProtocol element
 {: .no_toc}
 Here is a detailed description of each of the menu elements of CellExplorer. 
 

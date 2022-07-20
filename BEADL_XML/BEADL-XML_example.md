@@ -15,7 +15,7 @@ The following code snippet shows the implementation of the LightChasingTask as B
         <BeadlArguments>
             <BeadlArgument name="CorrectPortNum" expression="randi(3)" comment="random integer value in range [1..3] to define the port to be used as correct port" type="numeric" />
             <BeadlArgument name="RewardSize" expression="10" comment="reward size in microliter" type="numeric" />
-            <BeadlArgument name="ValveTime" expression="GetValveTime(RewardSize, ValveTime)" comment="convert the reward size into a duration the reward valve needs to be opened" type="numeric" />
+            <BeadlArgument name="ValveTime" expression="GetValveTimes(RewardSize, ValveTime)" comment="convert the reward size into a duration the reward valve needs to be opened" type="numeric" />
             <BeadlArgument name="TimeOutDuration" expression="6" comment="Time out duration when the subject selected the wrong port" type="numeric" />
             <BeadlArgument name="ITIDuration" expression="6" comment="Inter-Trial-Interval" type="numeric" />
         </BeadlArguments>
