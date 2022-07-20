@@ -27,8 +27,9 @@ In its current version, the BEADL-XML format defines 3 attributes for the `<BEAD
 
 # Child Elements
 The `<BEADL>`{: style="color: #268bd2;" }  root element in a BEADL-xml file can only have 2 child elements:
-- `<BeadlTrialProtocol>`{: style="color: #268bd2;" } defines all parameters of the trial-based behavior protocol. For further explanations see [here]({{ site.baseurl }}{% link BEADL_XML/BeadlTrialProtocol.md %}){: .btn .btn-outline }
-- `<BeadlEditor>`{: style="color: #268bd2;" } defines the graphical representation within the editor (in future releases)
+- `<BeadlTrialProtocol>`{: style="color: #268bd2;" } defines all parameters of the trial-based behavior protocol. For further explanations see [here]({{ site.baseurl }}{% link BEADL_XML/BEADL_BeadlTrialProtocol.md %}){: .btn .btn-outline }
+- `<BeadlEditor>`{: style="color: #268bd2;" } defines the graphical representation within the editor (in future releases). For further explanations see [here]({{ site.baseurl }}{% link BEADL_XML/BEADL_BeadlEditor.md %}){: .btn .btn-outline }
+
 Each of these two elements can only be present ones in a valid BEADL-XML file and the order of their occurrence needs to match the order above.
 
 Since the `<BeadlEditor>`{: style="color: #268bd2;" } element is planned for future releases of BEADL-XML, a valid BEADL-XML file does not have to include a `<BeadlEditor>`{: style="color: #268bd2;" } element
