@@ -12,7 +12,7 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "BEADL Editor":
+  "BEADL Editor (closed beta)":
     - "https://beta.beadl.org"
   #"Code on GitHub":
   #  - "https://github.com/BEADL"
