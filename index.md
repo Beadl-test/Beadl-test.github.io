@@ -31,4 +31,4 @@ Technological advances in neuroscience have dramatically increased the possibili
 We propose BEADL (BEhavioral tAsk Description Language) to abstract and standardize behavioral task descriptions on two layers. A graphical layer specifies elements to describe behavioral tasks as a state machine in a formal flow diagram and how the task controlling system interacts with a subject. This graphical layer has been designed to be easy to understand while retaining all aspects of the behavioral task. The second layer is a corresponding, XML-based description of the task. This layer forms the rigid, yet extensible foundation of BEADL and hides hardware implementation related details form the graphical representation.
 
 # Workflow
-![](assets/images/BEADL_Workflow.jpg)
+![](/assets/images/BEADL_NWB_Workflow.png)
