@@ -10,6 +10,14 @@ has_toc: false
 {: .no_toc}
 The `<BeadlTrialProtocol>`{: style="color: #268bd2;" } element describes and implements all properties of the trial-based behavior protocol.
 
+```xml
+...
+<BeadlTrialProtocol name="ExampleTask" startState="StartState" numberOfTrials="123">
+  ...
+<BeadlEditor />
+...
+```
+
 ## Attributes
 - `name`{: style="color: #555555;" }: defines the name of the protocol. The name of the protocol will be used during the code generation process for creating needed files and folders and thus should not contain any whitespace characters.
 - `startState`{: style="color: #555555;" }: defines the starting point of the trial structure. The content must refer to one state listed later in the description.
