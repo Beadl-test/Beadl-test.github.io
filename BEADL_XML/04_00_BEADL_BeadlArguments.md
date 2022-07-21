@@ -13,6 +13,14 @@ The `<BeadlArguments>`{: style="color: #268bd2;" } element defines a container f
 
 Only one `<BeadlArguments>`{: style="color: #268bd2;" } element container is allowed within a `<BeadlTrialProtocol>`{: style="color: #268bd2;" } element and it can have zero or more `<BeadlArgument>`{: style="color: #268bd2;" } child elements.
 
+```xml
+...
+<BeadlArguments>
+  <BeadlArgument name"ExampleArgument" expression="123" comment="Description" type="numeric" />
+</BeadlArguments>
+...
+```
+
 ## Attributes
 - None
 

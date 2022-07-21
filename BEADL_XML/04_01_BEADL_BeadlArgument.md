@@ -11,6 +11,13 @@ has_toc: false
 {: .no_toc}
 
 The `<BeadlArgument>`{: style="color: #268bd2;" } elements define values that are being defined outside of the trial structure and passed or updated to it. This way the experiment’s control system can update or predefine those values on trial-by-trial basis.
+```xml
+...
+<BeadlArguments>
+  <BeadlArgument name"ExampleArgument" expression="123" comment="Description" type="numeric" />
+</BeadlArguments>
+...
+```
 
 ## Attributes
 - `name`{: style="color: #555555;" } defines the reference (variable name) to be accessed. The name attribute of a `<BeadlArgument>`{: style="color: #268bd2;" } is the actual variable name in the control instance.
