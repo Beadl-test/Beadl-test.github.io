@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 has_children: false
 ---
-BEADL
+BEADL x 
 {: .fs-9 .fw-500 .lh-0 }
 
 BEhavioral tAsk Description Language
