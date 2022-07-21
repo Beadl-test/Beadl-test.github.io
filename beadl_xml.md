@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BEADL XML
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 # BEADL XML
