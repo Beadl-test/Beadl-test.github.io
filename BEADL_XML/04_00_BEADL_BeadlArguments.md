@@ -16,7 +16,7 @@ Only one `<BeadlArguments>`{: style="color: #268bd2;" } element container is all
 ```xml
 ...
 <BeadlArguments>
-  <BeadlArgument name"ExampleArgument" expression="123" comment="Description" type="numeric" />
+  <BeadlArgument name="ExampleArgument" expression="123" comment="Description" type="numeric" />
 </BeadlArguments>
 ...
 ```

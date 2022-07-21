@@ -14,7 +14,7 @@ The `<BeadlArgument>`{: style="color: #268bd2;" } elements define values that ar
 ```xml
 ...
 <BeadlArguments>
-  <BeadlArgument name"ExampleArgument" expression="123" comment="Description" type="numeric" />
+  <BeadlArgument name="ExampleArgument" expression="123" comment="Description" type="numeric" />
 </BeadlArguments>
 ...
 ```
