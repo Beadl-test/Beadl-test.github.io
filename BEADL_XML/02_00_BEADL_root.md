@@ -4,6 +4,7 @@ title: BEADL root element
 parent: BEADL XML
 nav_order: 2
 has_children: false
+has_toc: false
 ---
 # `<BEADL>`{: style="color: #268bd2;" } Root Element
 

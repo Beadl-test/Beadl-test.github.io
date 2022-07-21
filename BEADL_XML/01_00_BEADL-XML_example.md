@@ -4,6 +4,7 @@ title: BEADL-XML example
 parent: BEADL XML
 nav_order: 1
 has_children: false
+has_toc: false
 ---
 # BEADL-XML Example
 
