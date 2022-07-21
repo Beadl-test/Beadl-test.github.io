@@ -19,4 +19,4 @@ A `<ConnectionMapping>`{: style="color: #268bd2;" } element element maps a speci
 Both attributes, `resourceName`{: style="color: #555555;" } and `type`{: style="color: #555555;" }, depend on the used hardware,
 
 ## Child Elements
-- `<ConnectionMapping>`{: style="color: #268bd2;" } element: Definition under which condition the current ConnectionMapping should be processed in a trial. See [here]({{ site.baseurl }}{% link BEADL_XML/10_BEADL_Dependency.md %}) for a detailed description of the `<ConnectionMapping>`{: style="color: #268bd2;" } element.
+- `<ConnectionMapping>`{: style="color: #268bd2;" } element: Definition under which condition the current ConnectionMapping should be processed in a trial. See [here]({{ site.baseurl }}{% link BEADL_XML/10_00_BEADL_Dependency.md %}) for a detailed description of the `<ConnectionMapping>`{: style="color: #268bd2;" } element.
