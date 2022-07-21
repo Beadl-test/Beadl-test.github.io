@@ -12,6 +12,7 @@ The root element `<BEADL>`{: style="color: #268bd2;" } in the XML format works a
 <BEADL version="0.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BEADL.xsd">
 ```
 
+
 ## Attributes
 In its current version, the BEADL-XML format defines 3 attributes for the `<BEADL>`{: style="color: #268bd2;" } root element.
 - `version`{: style="color: #555555;" }: defines the BEADL version being used for describing this protocol
