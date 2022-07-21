@@ -1,9 +1,10 @@
 ---
 layout: default
-title: BeadlEvents element
-parent: BEADL XML
-nav_order: 6
-has_children: true
+title: VirtualEvent element
+parent: BeadlEvents element
+grand_parent: BEADL XML
+nav_order: 2
+has_children: false
 ---
-# `<BeadlEvents>`{: style="color: #268bd2;" } element
+# `<VirtualEvent>`{: style="color: #268bd2;" } element
 {: .no_toc}

@@ -1,9 +1,10 @@
 ---
 layout: default
-title: BeadlEvents element
-parent: BEADL XML
-nav_order: 6
-has_children: true
+title: HardwareEvent element
+parent: BeadlEvents element
+grand_parent: BEADL XML
+nav_order: 1
+has_children: false
 ---
-# `<BeadlEvents>`{: style="color: #268bd2;" } element
+# `<HardwareEvent>`{: style="color: #268bd2;" } element
 {: .no_toc}
