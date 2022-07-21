@@ -18,12 +18,28 @@ The following code snippet shows the basic structure of a BEADL-XML file.
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <BEADL version="0.1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="BEADL.xsd">
-<BeadlTrialProtocol name="DummyTask" startState="InitTrial" numberOfTrials="INF">
-...
-</BeadlTrialProtocol>
-<BeadlEditor>
-...
-</BeadlEditor>
+  <BeadlTrialProtocol name="ExampleTask" startState="StartState" numberOfTrials="123">
+    <BeadlArguments>
+      ...
+    </BeadlArguments>
+    <HardwareSettings hardware="Control_Hardware" version="1.0">
+      ...
+    </HardwareSettings>
+    <BeadlEvents>
+      ...
+    </BeadlEvents>
+    <BeadlActions>
+      ...
+    </BeadlActions>
+    <BeadlStates>
+      ...
+    </BeadlStates>
+    <BeadlStateTransitions>
+      ...
+    </BeadlStateTransitions>
+  </BeadlTrialProtocol>
+
+  <BeadlEditor />
 </BEADL>
 ```
 
