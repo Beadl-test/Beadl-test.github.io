@@ -2,7 +2,7 @@
 layout: default
 title: BeadlEditor element
 parent: BEADL XML
-nav_order: 4
+nav_order: 11
 has_children: false
 ---
 # `<BeadlEditor>`{: style="color: #268bd2;" } element
