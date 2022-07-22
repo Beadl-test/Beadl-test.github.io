@@ -8,3 +8,12 @@ has_children: false
 ---
 # `<HardwareEvent>`{: style="color: #268bd2;" } element
 {: .no_toc}
+
+
+```xml
+...
+<BeadlEvents>
+  <HardwareEvent eventName="Event1" connection="ConnectionName.Source" type="" comment="" />
+</BeadlEvents>
+...
+```

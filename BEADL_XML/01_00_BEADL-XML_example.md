@@ -113,4 +113,3 @@ For the following shown example of the implementation of the LightChasingTask, t
     </BeadlTrialProtocol>
 </BEADL>
 ```
-

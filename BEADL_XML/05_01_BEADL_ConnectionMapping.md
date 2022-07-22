@@ -11,6 +11,12 @@ has_children: no
 
 A `<ConnectionMapping>`{: style="color: #268bd2;" } element element maps a specific resource of the task controlling hardware to a specifier in the task description. Furthermore, it defines the type of the resource and enables to predefine specific values of it.
 
+```xml
+<HardwareSettings hardware="Control_Hardware" version="1.0">
+  <ConnectionMapping name="ConnectionName" resourceName="UsedHardwareResource" type="UsedHardwareResourceType" />
+</HardwareSettings>
+```
+
 ## Attributes
 - `name`{: style="color: #555555;" } defines a unique name of the connection mapping to be used within the BEADL task description.
 - `resourceName`{: style="color: #555555;" } defines which resource of the specified hardware should be mapped onto the specifier.
@@ -19,4 +25,4 @@ A `<ConnectionMapping>`{: style="color: #268bd2;" } element element maps a speci
 Both attributes, `resourceName`{: style="color: #555555;" } and `type`{: style="color: #555555;" }, depend on the used hardware,
 
 ## Child Elements
-- `<ConnectionMapping>`{: style="color: #268bd2;" } element: Definition under which condition the current ConnectionMapping should be processed in a trial. See [here]({{ site.baseurl }}{% link BEADL_XML/10_00_BEADL_Dependency.md %}) for a detailed description of the `<ConnectionMapping>`{: style="color: #268bd2;" } element.
+- `<Dependency>`{: style="color: #268bd2;" } element: Definition under which condition the current ConnectionMapping should be processed in a trial. See [here]({{ site.baseurl }}{% link BEADL_XML/10_00_BEADL_Dependency.md %}) for a detailed description of the `<Dependency>`{: style="color: #268bd2;" } element.
