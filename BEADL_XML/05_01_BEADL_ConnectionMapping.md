@@ -18,7 +18,7 @@ A `<ConnectionMapping>`{: style="color: #268bd2;" } element maps a specific reso
 ```
 
 ## Attributes
-- `name`{: style="color: #555555;" } defines a unique name of the connection mapping to be used within the BEADL task description.
+- `name`{: style="color: #555555;" } defines a name of the connection mapping to be used within the BEADL task description. Since specific dependencies can be specified for `<ConnectionMapping>`{: style="color: #268bd2;" } elements, the name might not be unique within the whole list of defines `<ConnectionMapping>`{: style="color: #268bd2;" } elements.
 - `resourceName`{: style="color: #555555;" } defines which resource of the specified hardware should be mapped onto the specifier.
 - `type`{: style="color: #555555;" } defines the type of the specified resource.
 
