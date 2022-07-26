@@ -18,5 +18,5 @@ The following image shows one possible graphical representation of the trial str
 ![](../assets/images/BEADL_LightChasingTask_Diagram.PNG)
 
 ## Template file
-Please download the `.json` template file [here]({{ site.baseurl }}{% link BEADL_Editor/template_files/LightChasingTask.json %}). After importing it into the user workspace it can be viewed in the BEADL Designer.
+Please download the `.json` template file [here]({{ site.baseurl }}{% link BEADL_Designer/template_files/LightChasingTask.json %}). After importing it into the user workspace it can be viewed in the BEADL Designer.
 
