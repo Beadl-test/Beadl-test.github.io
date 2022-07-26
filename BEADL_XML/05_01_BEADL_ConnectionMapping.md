@@ -9,7 +9,7 @@ has_children: no
 # `<ConnectionMapping>`{: style="color: #268bd2;" } element
 {: .no_toc}
 
-A `<ConnectionMapping>`{: style="color: #268bd2;" } element element maps a specific resource of the task controlling hardware to a specifier in the task description. Furthermore, it defines the type of the resource and enables to predefine specific values of it.
+A `<ConnectionMapping>`{: style="color: #268bd2;" } element maps a specific resource of the task controlling hardware to a specifier in the task description. Furthermore, it defines the type of the resource and enables to predefine specific values of it.
 
 ```xml
 <HardwareSettings hardware="Control_Hardware" version="1.0">

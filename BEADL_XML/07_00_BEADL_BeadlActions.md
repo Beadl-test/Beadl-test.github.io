@@ -26,4 +26,4 @@ Only one `<BeadlActions>`{: style="color: #268bd2;" } element container is allow
 
 ## Child Elements
 - [`<HardwareAction>` element]({{ site.baseurl }}{% link BEADL_XML/07_01_BEADL_HardwareAction.md %}): Definition of actions that are using output entities defined by the used hardware resources.
-- [`<VirtualEvent>` element]({{ site.baseurl }}{% link BEADL_XML/07_02_BEADL_VirtualAction.md %}): Definition of actions that are using virtual entities.
+- [`<VirtualAction>` element]({{ site.baseurl }}{% link BEADL_XML/07_02_BEADL_VirtualAction.md %}): Definition of actions that are using virtual entities.
