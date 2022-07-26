@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BEADL Editor
+title: BEADL Designer
 nav_order: 4
 has_children: true
 ---
